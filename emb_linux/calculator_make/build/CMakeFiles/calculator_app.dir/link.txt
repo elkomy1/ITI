@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/calculator_app.dir/main.c.o CMakeFiles/calculator_app.dir/Lib/add.c.o CMakeFiles/calculator_app.dir/Lib/mult.c.o CMakeFiles/calculator_app.dir/Lib/division.c.o CMakeFiles/calculator_app.dir/Lib/substraction.c.o -o calculator_app 

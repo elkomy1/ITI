@@ -1,0 +1,3 @@
+/home/youssef/calculator_make/build/CMakeFiles/calculator_app.dir
+/home/youssef/calculator_make/build/CMakeFiles/edit_cache.dir
+/home/youssef/calculator_make/build/CMakeFiles/rebuild_cache.dir
